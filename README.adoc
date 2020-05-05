@@ -1,0 +1,15 @@
+= HellloJavaGradle
+
+== Build Steps
+
+- Build
+```
+ ./gradlew build
+
+```
+
+- Run
+```
+ ./gradlew run
+
+```
